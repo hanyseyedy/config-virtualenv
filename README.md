@@ -1,6 +1,6 @@
 ### the config of virtualenv(venv) in linux - ubuntu:
 
-install virtualenv:<br />
+install virtualenv: <br />
 `sudo apt install virtualenv`<br />
 `virtualenv -p python3 venv`
 
