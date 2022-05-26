@@ -1,4 +1,4 @@
-### the config of virtualenv in linux - ubuntu:
+### the config of virtualenv(venv) in linux - ubuntu:
 
 install virtualenv:<br />
 `sudo apt install virtualenv`<br />
